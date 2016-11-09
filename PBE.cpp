@@ -1,5 +1,3 @@
-//This program is a simple pathing to an .exe file that has to remain in its certain folder
-
 #include <iostream>
 #include <windows.h>
 using namespace std;
