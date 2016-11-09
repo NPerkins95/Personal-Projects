@@ -1,3 +1,5 @@
+// A program that calculates combinations and permutations probability
+
 #include <iostream>
 using namespace std;
 
