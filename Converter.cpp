@@ -1,3 +1,6 @@
+// *****IN PROGRESS*****
+// Convert between Hexidecimal, Decimal, and Binary
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
