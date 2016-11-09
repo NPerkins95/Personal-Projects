@@ -1,3 +1,9 @@
+//Recursive program created for the assisting in explanation of a math problem.
+//Finds the sum of the parimeters of squares, where the next square in the sequence
+//    is inside the previous square. Each next square is rotated so its corners meet
+//    with the middle of the previous square's sidelength.
+//Shows the value that the side lengths of the squares are approaching.
+
 #include <iostream>
 #include <math.h>
 using namespace std;
