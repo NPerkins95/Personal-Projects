@@ -1,3 +1,6 @@
+//Processes a user-inputted 2D vector, and resizes to meet operation standards.
+//Can give a matrix reflexive, symmetric, and transitive closure.
+
 #include "Closure.cpp"
 
 int prompt();
